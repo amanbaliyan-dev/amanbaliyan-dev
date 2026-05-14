@@ -30,9 +30,9 @@ Building intelligent AI-powered applications that solve real-world problems.
 
 ## 🌐 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/aman-baliyan-7804a2205
-* Portfolio: YOUR_PORTFOLIO_LINK
-* Email: YOUR_EMAIL
+* LinkedIn:https://linkedin.com/in/aman-baliyan-7804a2205
+* Portfolio:https://portfolio-trx8.vercel.app/
+* Email:baliyanaman6@gmail.com
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dxdydz123&label=Profile%20views&color=8A2BE2&style=flat" />
