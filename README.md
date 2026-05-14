@@ -24,7 +24,8 @@ Building intelligent AI-powered applications that solve real-world problems.
 
 ## 📊 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=dxdydz123\&show_icons=true\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=dxdydz123&show_icons=true&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dxdydz123\&layout=compact\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxdydz123&layout=compact&theme=tokyonight" />
+
 
