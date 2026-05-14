@@ -28,10 +28,5 @@ AI/Data: Python, Machine Learning, OpenAI API, LangChain, SQL, Power BI
 
 Building intelligent AI-powered applications that solve real-world problems.
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=dxdydz123&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxdydz123&layout=compact&theme=tokyonight" />
 
 
