@@ -12,12 +12,15 @@ I build modern web applications, AI-powered tools, automation systems, and data-
 * LangChain & LLM Applications
 * Data Analytics & Power BI
 
-## Tech Stack
+🚀 Tech Stack
 
 Frontend: React.js, Next.js, TypeScript, Tailwind CSS
 Backend: Node.js, Express.js, PostgreSQL, MongoDB
 AI/Data: Python, Machine Learning, OpenAI API, LangChain, SQL, Power BI
 
-## Current Goal
-
-Building intelligent AI-powered applications that solve real-world problems.
+🤖 Currently Learning
+Generative AI
+LangChain
+Machine Learning
+AI Automation
+Data Analytics
