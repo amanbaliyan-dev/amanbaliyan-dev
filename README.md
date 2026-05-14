@@ -28,5 +28,15 @@ AI/Data: Python, Machine Learning, OpenAI API, LangChain, SQL, Power BI
 
 Building intelligent AI-powered applications that solve real-world problems.
 
+## 🌐 Connect With Me
+
+* LinkedIn: https://linkedin.com/in/aman-baliyan-7804a2205
+* Portfolio: YOUR_PORTFOLIO_LINK
+* Email: YOUR_EMAIL
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dxdydz123&label=Profile%20views&color=8A2BE2&style=flat" />
+</p>
+
 
 
