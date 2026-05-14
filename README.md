@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Aman Baliyan 👋
 
-<!--
-**amanbaliyan-dev/amanbaliyan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer transitioning into AI Engineering & Generative AI
 
-Here are some ideas to get you started:
+I build modern web applications, AI-powered tools, automation systems, and data-driven products using modern frontend technologies, backend systems, and AI workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Exploring
+
+* Generative AI
+* Machine Learning
+* AI Automation
+* LangChain & LLM Applications
+* Data Analytics & Power BI
+
+## Tech Stack
+
+Frontend: React.js, Next.js, TypeScript, Tailwind CSS
+Backend: Node.js, Express.js, PostgreSQL, MongoDB
+AI/Data: Python, Machine Learning, OpenAI API, LangChain, SQL, Power BI
+
+## Current Goal
+
+Building intelligent AI-powered applications that solve real-world problems.
