@@ -66,11 +66,7 @@ Building intelligent AI-powered applications that solve real-world problems.
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=dxdydz123&label=Profile%20views&color=8A2BE2&style=flat" />
 </p>
-# 📊 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanbaliyan-dev&show_icons=true)
-
----
 
 # 🔥 Streak Stats
 
@@ -78,11 +74,7 @@ Building intelligent AI-powered applications that solve real-world problems.
 
 ---
 
-# 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbaliyan-dev&layout=compact)
-
----
 
 # ⚡ Fun Fact
 
