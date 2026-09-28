@@ -1,87 +1,83 @@
 <h1 align="center">Hi 👋, I'm Aman Baliyan</h1>
 
-<h3 align="center">
-Full Stack Developer • AI Enthusiast • Generative AI Learner
-</h3>
+<p align="center"><strong>Full Stack Developer · AI Engineer in Progress · Automation Builder</strong></p>
+<p align="center">I build production-focused web applications, AI-powered products, and automation systems.</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&center=true&vCenter=true&lines=Full+Stack+Developer;Learning+Generative+AI;Building+AI-Powered+Applications;React+%7C+Python+%7C+AI+Automation" />
+  <a href="https://github.com/amanbaliyan-dev">GitHub</a> ·
+  <a href="https://linkedin.com/in/aman-baliyan-7804a2205">LinkedIn</a> ·
+  <a href="https://portfolio-trx8.vercel.app/">Portfolio</a>
 </p>
 
-I build modern web applications, AI-powered tools, automation systems, and data-driven products using modern frontend technologies, backend systems, and AI workflows.
+---
 
-## Currently Exploring
+## About
 
-* Generative AI
-* Machine Learning
-* AI Automation
-* LangChain & LLM Applications
-* Data Analytics & Power BI
+I'm a Full Stack Developer focused on turning ideas into usable products.
+
+My current focus is the intersection of:
+
+- **Full-stack engineering** — React, Next.js, TypeScript, Node.js, Express
+- **AI engineering** — LLM applications, structured outputs, AI agents, RAG and automation
+- **Product development** — dashboards, SaaS workflows, developer tools and business automation
+
+I care about clean architecture, reliable integrations, practical UX, and shipping complete systems rather than isolated demos.
 
 ## Tech Stack
 
-Frontend: React.js, Next.js, TypeScript, Tailwind CSS
-Backend: Node.js, Express.js, PostgreSQL, MongoDB
-AI/Data: Python, Machine Learning, OpenAI API, LangChain, SQL, Power BI
+**Frontend**
+`React` `Next.js` `TypeScript` `JavaScript` `HTML` `CSS` `Tailwind CSS`
 
-# 🚀 Featured Projects
+**Backend & Data**
+`Node.js` `Express.js` `MongoDB` `PostgreSQL` `Supabase` `REST APIs`
 
-## Fin-Tech Project
-A modern FinTech application that enables secure digital transactions, expense management, and real-time financial tracking with an intuitive and responsive user experience. Built using modern web technologies with a focus on security, scalability, and performance.
+**AI & Automation**
+`OpenRouter` `LLM APIs` `n8n` `AI Agents` `Prompt Engineering` `RAG`
 
-### Features:
-- Secure user authentication and authorization
-- Real-time transaction tracking and dashboard analytics
-- Payment gateway integration
-- Expense and financial management system
-- Responsive and modern UI/UX
-- Data visualization using charts and analytics
-- REST API integration
-- Scalable backend architecture
+**Tools & Deployment**
+`Git` `GitHub` `Vercel` `Cloudflare` `Postman`
 
-### Tech Stack:
-- Frontend: React.js / Next.js, Tailwind CSS
-- Backend: Node.js, Express.js
-- Database: MongoDB / PostgreSQL
-- Authentication: JWT / OAuth
-- Payment Integration: Razorpay / Stripe
-- Deployment: Vercel / Render / AWS
----
+## Selected Projects
 
-## ApexPrep AI: Elite Recruitment & Tech Interview Suite
-ApexPrep AI (formerly ResuAI) is a state-of-the-art, high-fidelity SaaS platform designed to supercharge technical recruitment and interview preparation. The platform leverages modern artificial intelligence to evaluate candidate resumes, conduct dynamic mock technical or behavioral assessments, simulate full-fidelity voice rooms, compile code inside custom developer sandboxes, and map technical progress on interactive radar dashboards.
+### FlowPilot AI
+AI-powered workflow automation project focused on connecting business workflows with intelligent agents and automation pipelines.
 
----
+**Stack:** Next.js · AI APIs · n8n · Supabase
 
-## Current Goal
+### AI Resume Analyzer / ApexPrep AI
+A recruitment and interview-preparation platform combining resume analysis, adaptive interviews, study planning, coding practice, and candidate analytics.
 
-Building intelligent AI-powered applications that solve real-world problems.
+**Stack:** React · AI/LLM APIs · MediaPipe · Clerk · Vercel
 
-## 🌐 Connect With Me
+### AI Lead Qualification System
+Automated lead qualification pipeline that receives a lead, evaluates it with an LLM, and stores structured results for follow-up.
 
-* LinkedIn:https://linkedin.com/in/aman-baliyan-7804a2205
-* Portfolio:https://portfolio-trx8.vercel.app/
-* Email:baliyanaman6@gmail.com
+**Stack:** n8n · OpenRouter · Supabase
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=dxdydz123&label=Profile%20views&color=8A2BE2&style=flat" />
+### AI Customer Support Automation
+AI-assisted support workflow for classifying customer requests, generating responses, and escalating cases when human attention is required.
+
+**Stack:** Next.js · n8n · OpenRouter · Supabase
+
+## Currently Building
+
+**AI Engineering Journey**
+- LLM application patterns
+- AI agents and tool calling
+- RAG and document intelligence
+- Evaluation and reliability
+- Automation-first product development
+
+## GitHub
+
+This profile is intentionally focused on real project work: shipped applications, experiments, architecture notes, and incremental engineering improvements.
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanbaliyan-dev&label=Profile%20views&style=flat" alt="Profile views" />
 </p>
 
+## Connect
 
-# 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=amanbaliyan-dev)
-
----
-
-
-
-# ⚡ Fun Fact
-
-I love building startup-style products and solving real-world problems using technology 🚀
-
-
-
-
-
-
+**Email:** baliyanaman6@gmail.com  
+**LinkedIn:** https://linkedin.com/in/aman-baliyan-7804a2205  
+**Portfolio:** https://portfolio-trx8.vercel.app/
